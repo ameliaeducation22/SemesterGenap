@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/semester 2_PBO/PertemuanKedua/BujurSangkar/BujurSangkar.iml" filepath="$PROJECT_DIR$/semester 2_PBO/PertemuanKedua/BujurSangkar/BujurSangkar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semester 2_PBO/PertemuanKedua/Lingkaran/Lingkaran.iml" filepath="$PROJECT_DIR$/semester 2_PBO/PertemuanKedua/Lingkaran/Lingkaran.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semester 2_PBO/PertemuanKedua/ObyekMahasiswa/ObyekMahasiswa.iml" filepath="$PROJECT_DIR$/semester 2_PBO/PertemuanKedua/ObyekMahasiswa/ObyekMahasiswa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semester 2_PBO/PertemuanKedua/Persegi/Persegi.iml" filepath="$PROJECT_DIR$/semester 2_PBO/PertemuanKedua/Persegi/Persegi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semester 2_PBO/semester 2_PBO.iml" filepath="$PROJECT_DIR$/semester 2_PBO/semester 2_PBO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semester2.iml" filepath="$PROJECT_DIR$/semester2.iml" />
+    </modules>
+  </component>
+</project>
